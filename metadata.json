@@ -1,0 +1,6 @@
+{
+  "name": "Space Music",
+  "description": "A futuristic space-themed audio and video player featuring local media scanning, equalizer presets, intelligent AI-powered discovery recommendations, lyrics synchronization, customizable cosmic backgrounds, and premium sound visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
